@@ -45,7 +45,7 @@ This project demonstrates a completely autonomous drone built without a remote c
 
 | Description | Link |
 |-------------|------|
-| 🎬 Drone Demo Video | [Watch Here](#) *(Insert YouTube or Google Drive link)* |
+| 🎬 Drone Demo Video | [Watch Here](#) *(https://youtu.be/K_CbgLpvH9E?si=DHHDY7Qv-2EP3Sl5)* |
 | 📸 Project Images | [View Folder](#) *(Insert folder link)* |
 
 ---
