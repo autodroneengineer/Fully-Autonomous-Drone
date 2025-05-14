@@ -5,13 +5,6 @@
 # GND	     GND (Pin 6)
 # TX	     GPIO 14 (UART0 TX)
 # RX	     GPIO 15 (UART0 RX)
-
-
-
-
-
-
-
 import pynmea2
 import serial
 
