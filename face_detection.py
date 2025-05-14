@@ -1,20 +1,10 @@
 # Camera Module – Face Detection & Object Tracking
-# 🔌 Wiring
 # Connect the Raspberry Pi Camera Module to the CSI port on Raspberry Pi.
 # Enable the camera:
-
 
 # Edit
 # sudo raspi-config
 # Navigate to Interfacing Options > Camera > Enable.
-
-
-
-
-
-
-
-
 import cv2
 
 cam = cv2.VideoCapture(0)
