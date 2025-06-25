@@ -1,7 +1,7 @@
 # 🛰️ Fully Autonomous Drone Powered by using PX4 & Raspberry Pi 4
 
 > A next-gen, remoteless drone system with real-time AI-based navigation, obstacle avoidance, voice control, in-flight charging, and autonomous decision-making.  
-> Developed by **Abhishek Singh Narwariya**, B.Tech IT, MITS Gwalior.
+> Developed by **Abhishek Singh Narwariya**, B.Tech IT(AIR), MITS Gwalior.
 
 ---
 
