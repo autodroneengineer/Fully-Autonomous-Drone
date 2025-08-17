@@ -1,0 +1,6 @@
+<launch>
+    <node name="drone_node" pkg="drone_system" type="drone.py" output="screen"/>
+    <node name="face_detection_node" pkg="drone_system" type="face_detection.py" output="screen"/>
+    <node name="gps_tracker_node" pkg="drone_system" type="gps_tracker.py" output="screen"/>
+    <node name="object_avoid_node" pkg="drone_system" type="object_avoid.py" output="screen"/>
+</launch>
